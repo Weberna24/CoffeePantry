@@ -29,7 +29,7 @@ body.active{
   height: 90vh;
   background-size: cover;
   background-position: center;
-  background: url('/CoffeePantry/images/CP12.jpg');
+  background: url('images/CP12.jpg');
   background-color: #E0FFFF;
 }
 
